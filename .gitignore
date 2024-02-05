@@ -1,3 +1,15 @@
+# Custom ignored files
+Assets/*.rsp
+Assets/*.meta
+Assets/Live2D/
+
+Packages/
+ProjectSettings/
+
+Assets/Scenes.meta
+Assets/Scenes/SampleScene.unity
+Assets/Scenes/SampleScene.unity.meta
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
@@ -25,6 +37,7 @@
 
 # Visual Studio cache directory
 .vs/
+.idea
 
 # Gradle cache directory
 .gradle/
@@ -70,3 +83,4 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/~UnityDirMonSyncFile~625764b4e28a6014a954ca49a2e89520~
